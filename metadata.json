@@ -1,0 +1,6 @@
+{
+  "name": "ONG AHB - Collecte de Dons",
+  "description": "Plateforme de collecte de dons humanitaires pour l'ONG AHB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
