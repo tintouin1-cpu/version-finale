@@ -6,8 +6,8 @@ export const MAIN_CAMPAIGN: Campaign = {
   subtitle: '5 Forages & 15 Puits Collectifs • Distributions de Vêtements',
   description: 'L’ONG Aide Humanitaire et de Bienfaisance (AHB) met en œuvre un programme humanitaire destiné à soutenir les communautés les plus vulnérables. Ce programme prévoit la réalisation de 5 forages collectifs et de 15 puits collectifs, en fonction des besoins des villages touchés par la pénurie d’eau. Ces infrastructures contribueront à améliorer durablement l’accès à l’eau potable et les conditions de vie des populations bénéficiaires. L\'ONG organise également des distributions de vêtements au profit des enfants, des familles démunies et des personnes en situation de vulnérabilité.',
   targetAmount: 48800,
-  currentAmount: 24232.52,
-  donorCount: 492,
+  currentAmount: 25474.13,
+  donorCount: 493,
   daysRemaining: 18,
   category: 'Urgences & Développement',
   imageUrl: 'https://images.unsplash.com/photo-1542810634-71277d95dcbb?auto=format&fit=crop&q=80&w=1600'
