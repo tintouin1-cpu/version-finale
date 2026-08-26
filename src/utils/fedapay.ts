@@ -34,7 +34,7 @@ export function triggerFedaPayPayment(amountInEur: number = 50) {
         reason: `Don ONG AHB - Aide Humanitaire et de Bienfaisance (${amountInEur}€)`,
         position: 'center',
         theme: '#059669',
-        name: 'ONG AHB',
+        
       });
     } else if (window.FedaPay) {
       try {
